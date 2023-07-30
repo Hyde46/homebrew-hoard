@@ -4,9 +4,9 @@
 class Hoard < Formula
     desc "Cross-platform command organizer written in Rust"
     homepage "https://github.com/Hyde46/hoard"
-    url "https://github.com/Hyde46/hoard/releases/download/v1.2.0/hoard_v1.3.2_x86_64-apple-darwin.zip"
-    sha256 "9a070a0b691526321cee595e62064a338de92bbc524f1b89f5f0cdf6e78f5cbf"
-    version "1.3.2"
+    url "https://github.com/Hyde46/hoard/releases/download/v1.4.0/hoard_v1.4.0_x86_64-apple-darwin.zip"
+    sha256 "2bbbfe9b7a0b0289019a342b3584c42bf98b957d14b7917e171db78091fed27c"
+    version "1.4.0"
   
     def install
       bin.install "hoard"
